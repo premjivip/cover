@@ -114,7 +114,7 @@ Publish the website in the given URL.
 
 ```
 # OUTPUT
-(<Screenshot (22).png>)
+![Screenshot (22)](https://github.com/premjivip/cover/assets/143831886/96893338-959b-4c8e-a2c3-3a5cc46d779d)
 
 
 
